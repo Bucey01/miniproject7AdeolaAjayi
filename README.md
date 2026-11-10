@@ -1,6 +1,7 @@
 # INF601 Mini Project 7 – Practice Hub MCP Server
 
 **Course:** INF601 – Advanced Programming in Python
+
 **Author:** Adeola Ajayi
 
 ## Overview

@@ -67,6 +67,6 @@ All five required MCP tools were exercised through Claude Code:
 
 Initially, Claude Code exposed only `list_posts` because the `mcp.run()` startup block appeared before the remaining tool definitions in `server.py`. Claude Code moved the startup block to the end of the file. After reconnecting `practice-hub` using `/mcp`, all five tools were available and the acceptance tests above succeeded.
 
-## AI assistance disclosure
+## AI Usage
 
 Claude Code performed the MCP tool calls and reported their results. This document summarizes the test requests and responses shown in the Claude Code session; it was drafted with ChatGPT assistance and should not be represented as a verbatim raw log.

@@ -69,4 +69,4 @@ Initially, Claude Code exposed only `list_posts` because the `mcp.run()` startup
 
 ## AI Usage
 
-Claude Code performed the MCP tool calls and reported their results. This document summarizes the test requests and responses shown in the Claude Code session; it was drafted with ChatGPT assistance and should not be represented as a verbatim raw log.
+Claude Code performed the MCP tool calls and reported their results. This document summarizes the test requests and responses shown in the Claude Code session.
